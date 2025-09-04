@@ -2,8 +2,46 @@ body{
     font-family: 'Roboto', sans-serif;
     margin: 0;
     height: 100vh;
+}
+.wrapper{
     display: flex;
 }
-ul li{
+.header{
+display: flex;
+width: 100%;
+background-color: #1f2937;
+}
+.header_top{
+    display: flex;
+    width: 100%;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 5px;
+    padding: 16px 24px;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+ul{
+    padding: 0;
+    margin: 0;
     list-style-type: none;
 }
+.header_top ul{
+    font-size: 18px;
+    color: #e5e7eb;
+    display: flex;
+    gap: 16px;
+}
+
+.header_top h1{
+    display: flex;
+    margin: 0;
+    margin-right: auto;
+    width: 150px;
+    height: 50px;
+    font-size: 24px;
+    color: #f9faf8;
+}
+
