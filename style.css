@@ -11,8 +11,6 @@ body{
 .header{
 display: flex;
 flex-direction: column;
-width: 100%;
-background-color: #1f2937;
 }
 .header_top{
     display: flex;
@@ -155,7 +153,7 @@ background-color: #3882f6;
 padding: 50px 150px;
 border-radius: 15px;
 }
-.body_bottom_text p, .body_bottom_text h1{
+.body_bottom_text p, .body_bottom_text h1, .footer p{
     color: #e5e7eb;;
     margin: 0;
     padding: 0;
@@ -175,4 +173,14 @@ border-radius: 15px;
 .body_bottom_button{
     display: flex;
     align-self: flex-end;
+}
+.footer, .header{
+    width: 100%;
+    background-color: #1f2937;
+}
+.footer{
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
