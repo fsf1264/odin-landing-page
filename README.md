@@ -1,1 +1,3 @@
 This is the second project on the odin project curriculum. It's made to put my HTML, CSS and FlexBox knowledges into practice and get me ready to study Javacript. I'm looking forward to working on this project and am going to complete this file after I finish the project.
+Update 1:
+Having worked on this project, I can say that it helped me put my skills to practice, it made me think and solve problems a lot. Although it has some flaws, I am proud of my project and also very proud that I don't stop on my way to becoming a good specialist, this project being one step of my path.
